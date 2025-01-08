@@ -12,3 +12,6 @@ DG
 DF
 GDF
 G
+DFG
+D
+FG
