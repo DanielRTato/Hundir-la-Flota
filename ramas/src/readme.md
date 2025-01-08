@@ -6,7 +6,7 @@ estoy en mainDF
 DFG
 DF
 GDDGDG
-GD
+GDDGDG
 FGDFG
 DFDFG
 GDFG
